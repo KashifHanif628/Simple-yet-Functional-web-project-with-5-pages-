@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,3 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# 1st assignment" 
+=======
+# 1st-Assignment-Using-Nextjs-Tailwind-Css
+This is a beginner website using Nextjs Components Navigation &amp; Tailwind Css.
+>>>>>>> 86ff6e5952b0e0228a1fa012cfcfa2d8d9969a6e
